@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @nalexoff
-- Check out the kookcast repo to see my personal project: https://github.com/nalexoff/kookcast
+- 👋 Hi, I’m Nik Alexoff
+- 👀 **Check out the kookcast repo to see my personal project:** https://github.com/nalexoff/kookcast
